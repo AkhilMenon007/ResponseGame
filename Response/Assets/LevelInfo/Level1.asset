@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bdae877a3e8e5a4cb299f8ec1608cbc, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  levelNumber: 1
+  infoText: 'This game is developed for the data collection for the project work
+    purpose. Please read the instructions before starting the game.
+
+
+
+    1. Click
+    on the coloured ball and then drag into the respective bin so that the ball goes
+    into the respective bin.
+
+    2. If an incorrect bin is selected, the system
+    will generate a sound and it will count as drop error.
+
+    3. The coloured balls
+    will coming in a moving conveyor. If any ball is missed to pick, the it will
+    count as missing error.
+
+    4. There are 5 levels in this game and the next
+    level will start as soon as one level is completed.
+
+    5. The bins are the
+    boxes in the bottom of the screen.'
