@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bdae877a3e8e5a4cb299f8ec1608cbc, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  levelNumber: 1
+  infoText: "1. Click on the coloured ball and then drag it into the respective bin
+    so that the ball goes into the respective bin.\r\n\u29812. If an incorrect bin
+    is selected, it will be counted as a drop error.\r\n\u29813. The coloured balls
+    will be coming in a moving conveyor. The player must click and drag the balls
+    into the bin before it reaches the right side of your screen. If any balls is
+    missed to be picked up by the player, it will be counted as a missing error.\r\n\u29814.There
+    are five levels in the game and the next level will start as soon as one level
+    is completed.\r\n\u29815. The bins are the boxes seen at the bottom of the screen.\r\n"
